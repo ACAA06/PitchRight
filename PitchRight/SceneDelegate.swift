@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PitchRight
 //
-//  Created by silviya on 03/04/20.
+//  Created by Clement on 03/04/20.
 //  Copyright © 2020 CADR. All rights reserved.
 //
 
